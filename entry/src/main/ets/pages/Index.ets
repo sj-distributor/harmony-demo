@@ -1,5 +1,4 @@
 import router from '@ohos.router'
-import { EnumTag } from './data/EnumTag'
 import { Item } from './data/Item'
 import { ItemList } from './data/ItemList'
 
@@ -39,7 +38,7 @@ struct Index {
                 .textAlign(TextAlign.End)
 
               Row() {
-                Image($r('app.media.icon_me_right'))
+                Image($r("app.media.icon_arrow_right"))
                   .width(20)
                   .height(20)
               }
