@@ -20,3 +20,11 @@
 - main_pages.json : 配置界面资源
 - oh-package.json5 ： 配置dependencies
 - module.json5 ： module配置，比如，app abilities cofig, requestPermissions (系统授权)
+
+### 学习体系
+- ArkUI
+- 应用模型
+- Next SDK
+- 鸿蒙特色生态
+- AI实战项目集合
+- 鸿蒙应用商店上架项目指南
