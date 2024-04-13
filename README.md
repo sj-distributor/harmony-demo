@@ -22,9 +22,24 @@
 - module.json5 ： module配置，比如，app abilities cofig, requestPermissions (系统授权)
 
 ### 学习体系
-- ArkUI
-- 应用模型
-- Next SDK
-- 鸿蒙特色生态
-- AI实战项目集合
-- 鸿蒙应用商店上架项目指南
+- #### ArkUI
+  1. 组件化
+  2. 
+
+- #### 应用模型
+  1. 应用储存
+     
+- #### Next SDK
+  1. 多媒体接口
+  2. SQLLite
+     
+- #### 鸿蒙特色生态
+  1. Ohpm
+    
+- #### AI实战项目集合
+  1. read photo
+  2. 声控
+     
+- #### 鸿蒙应用商店上架项目指南
+  1. 
+     
